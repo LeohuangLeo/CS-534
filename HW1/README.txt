@@ -1,5 +1,7 @@
 Programing language: Python 3.7
 
+Linear Regression
+
 The source code contain 8 files:
 main_Part0.py : data analysis
 main_Part1.py : explore different learning rate for batch gradient descent

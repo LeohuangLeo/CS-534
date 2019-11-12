@@ -1,5 +1,7 @@
 Programing language: Python 3.7
 
+Perceptron & Kernel Method
+
 The source code contain 6 files:
 main_part1.py : Online Perceptron 
 main_part2.py : Average Perceptron

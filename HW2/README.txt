@@ -11,7 +11,7 @@ Read_test_data.py : Read testing data
 Data_pred_op_ap.py : data prediction for Online Perceptron (oplabel.csv) and Average Perceptron (aplabel.csv)
 
 Source datasets:
-pa2_train.csv
+pa2_train.csv (file size is larger than 25MB, so I cannot upload to here. However, user can split valid data into train and val as well)
 pa2_valid.csv
 pa2_test_no_label.csv
 
